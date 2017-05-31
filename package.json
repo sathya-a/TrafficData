@@ -1,0 +1,16 @@
+{
+	"name": "NodeTester",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"request":"*",
+		"open":"*",
+		"express":"*"
+	},
+	"repository": {
+		
+	},
+	"engines": {
+		"node": "^4.x.x"
+	}
+}
